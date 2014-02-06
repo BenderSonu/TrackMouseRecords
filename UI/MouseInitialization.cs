@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Windows.Input;
 
-namespace MouseLibrary
+namespace UI
 {
-    public class Class1
+    public class MouseInitialization
     {
     }
+
 }
